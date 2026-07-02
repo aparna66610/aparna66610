@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm Aparna 👋
 HCI & responsible-AI researcher. AI product and GTM builder. Two ends of one question: how technology affects people, and how to make it land.
 
 I don't think you can build responsible technology without understanding its effects, and I don't think research matters if it never reaches anyone. The research makes me a better builder. The building keeps my research honest.
@@ -6,7 +6,6 @@ I don't think you can build responsible technology without understanding its eff
 Education
 M.S. Engineering Management- USC, Dec 2025
 B.Tech Mechatronics (Robotics & Automation), AI/ML Minor · Honors- NMIMS, 21
-
 
 <!--
 **aparna66610/aparna66610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
