@@ -43,6 +43,17 @@ My work sits at the intersection of human-computer interaction, responsible AI, 
 
 I don't keep research and building in separate boxes. The research makes me a better builder. The building keeps my research honest.
 
+### Publications
+
+| Year | Paper | Status |
+|---|---|---|
+| 2026 | Who You Are Changes What You're Told: Red-Teaming Personalized Safety Failures in Frontier LLMs | In progress · lead |
+| 2026 | A Comparative Review of GPT-5, BERT, Gemini, and DeepSeek Large Language Models | Accepted |
+| 2025 | AI-Powered Software Development: Enhancing Productivity and Code Quality | In progress · lead |
+| 2022 | The Impact of Instagram on Young Adults' Social Comparison, Colourism and Mental Health *(Elsevier, IJIM Data Insights)* | Published · lead · 100+ citations |
+| 2021 | A Systematic Review of Assistance Robots for Elderly Care *(IEEE ICCICT)* | Published · lead · IEEE Best Paper |
+| 2021 | Perception of Students in Online Tests in Engineering *(IEEE ICCICT)* | Published · lead |
+| 2020 | Innovative Course Delivery using the AGDO Methodology *(ASTESJ)* | Published · lead |
 
 <div align="center">
 
