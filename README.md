@@ -33,6 +33,18 @@ I take GenAI products from zero to real users, and run go-to-market for enterpri
 - Founding-team work building AI products that ship
 
 ---
+### Research interests
+
+My work sits at the intersection of human-computer interaction, responsible AI, and human wellbeing — how technology reshapes the people who live with it, and how to build it responsibly. Three threads run through it:
+
+- **Technology and mental health** — how platform design relates to psychological wellbeing, most centrally in my lead-authored study on Instagram and mental health
+- **Assistive and care technology** — where robotics and AI can genuinely support aging populations, and where deployment outpaces evidence
+- **Responsible AI in practice** — not as principle, but as engineering: systems with human oversight built into the loop, evaluated honestly
+
+### From paper to product
+
+I don't keep research and building in separate boxes. The RAG-based contract-analysis system I built put human oversight into an AI pipeline the way my responsible-AI research argues it should be done. The research makes me a better builder. The building keeps my research honest.
+
 
 <div align="center">
 
@@ -63,5 +75,4 @@ I take GenAI products from zero to real users, and run go-to-market for enterpri
 - **IoT Health Monitoring System** — real-time biosensor dashboard
 - **Life-Centered Financial Modeling** — 20-year net-worth simulation
 
-Full portfolio, projects with images, and writing → **[your portfolio site link here]**
 
