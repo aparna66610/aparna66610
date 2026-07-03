@@ -18,7 +18,7 @@ I study how technology shapes people — and I build the products that reach the
 
 ### 🔬 The researcher
 
-My work asks how technology changes the people who use it — across social platforms, AI systems, and assistive robotics.
+A lot of my research is private. My work asks how technology changes the people who use it — across social platforms, AI systems, and assistive robotics.
 
 - Six peer-reviewed papers · 122 citations · h-index 3
 - IEEE Best Paper Award, cited in elderly-care policy across four countries
