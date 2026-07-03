@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="readme-assets/banner.png" width="100%" alt="Aparna Sharma banner" />
+<img src="banner.png" width="100%" alt="Aparna Sharma banner" />
 
-<img src="readme-assets/avatar.jpg" width="110" style="border-radius:50%" alt="Aparna Sharma" />
+<img src="avatar.jpg" width="110" style="border-radius:50%" alt="Aparna Sharma" />
 
 ### Aparna Sharma
 **HCI & Responsible-AI Researcher · AI Product & GTM Builder**
