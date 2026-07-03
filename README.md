@@ -2,8 +2,6 @@
 
 <img src="banner.png" width="100%" alt="Aparna Sharma banner" />
 
-<img src="avatar.jpg" width="110" style="border-radius:50%" alt="Aparna Sharma" />
-
 ### Aparna Sharma
 **HCI & Responsible-AI Researcher · AI Product & GTM Builder**
 
