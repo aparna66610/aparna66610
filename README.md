@@ -41,9 +41,7 @@ My work sits at the intersection of human-computer interaction, responsible AI, 
 - **Assistive and care technology** — where robotics and AI can genuinely support aging populations, and where deployment outpaces evidence
 - **Responsible AI in practice** — not as principle, but as engineering: systems with human oversight built into the loop, evaluated honestly
 
-### From paper to product
-
-I don't keep research and building in separate boxes. The RAG-based contract-analysis system I built put human oversight into an AI pipeline the way my responsible-AI research argues it should be done. The research makes me a better builder. The building keeps my research honest.
+I don't keep research and building in separate boxes. The research makes me a better builder. The building keeps my research honest.
 
 
 <div align="center">
@@ -57,7 +55,7 @@ I don't keep research and building in separate boxes. The RAG-based contract-ana
 ![Mixed Methods](https://img.shields.io/badge/Mixed_Methods-2f6fd6?style=flat-square)
 ![Assistive Robotics](https://img.shields.io/badge/Assistive_Robotics-d6672f?style=flat-square)
 
-### Reach me out
+### Socials
 
 [![Email](https://img.shields.io/badge/Email-d6472f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaaparnasunil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
