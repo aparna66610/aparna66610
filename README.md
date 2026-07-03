@@ -49,11 +49,11 @@ I don't keep research and building in separate boxes. The research makes me a be
 |---|---|---|
 | 2026 | Who You Are Changes What You're Told: Red-Teaming Personalized Safety Failures in Frontier LLMs | In progress · lead |
 | 2026 | A Comparative Review of GPT-5, BERT, Gemini, and DeepSeek Large Language Models | Accepted |
-| 2025 | AI-Powered Software Development: Enhancing Productivity and Code Quality | In progress · lead |
-| 2022 | The Impact of Instagram on Young Adults' Social Comparison, Colourism and Mental Health *(Elsevier, IJIM Data Insights)* | Published · lead · 100+ citations |
+| 2025 | AI-Powered Software Development: Enhancing Productivity and Code Quality | In progress |
+| 2022 | The Impact of Instagram on Young Adults' Social Comparison, Colourism and Mental Health *(Elsevier, IJIM Data Insights)* | Published · 100+ citations |
 | 2021 | A Systematic Review of Assistance Robots for Elderly Care *(IEEE ICCICT)* | Published · lead · IEEE Best Paper |
-| 2021 | Perception of Students in Online Tests in Engineering *(IEEE ICCICT)* | Published · lead |
-| 2020 | Innovative Course Delivery using the AGDO Methodology *(ASTESJ)* | Published · lead |
+| 2021 | Perception of Students in Online Tests in Engineering *(IEEE ICCICT)* | Published ·|
+| 2020 | Innovative Course Delivery using the AGDO Methodology *(ASTESJ)* | Published  |
 
 <div align="center">
 
@@ -79,9 +79,11 @@ I don't keep research and building in separate boxes. The research makes me a be
 
 ### 📌 Pinned work
 
-- **From Stadium to Streets** — a data-driven policy proposal on LA's public restroom gap
-- **Senior Citizen Assistance Humanoid** — mood-aware, voice-controlled care robot
+- **From Stadium to Streets** — a data-driven policy proposal on LA's public restroom gap. LA doesn't have enough public restrooms. I used data to prove exactly who that hurts most and what the city could do about it
+- **Senior Citizen Assistance Humanoid** — mood-aware, voice-controlled care robot. A robot companion for older adults that listens, reads your mood, and helps out around the house
 - **IoT Health Monitoring System** — real-time biosensor dashboard
-- **Life-Centered Financial Modeling** — 20-year net-worth simulation
+- **Life-Centered Financial Modeling** — 20-year net-worth simulation: watch what happens to your net worth as real life — jobs, marriage, kids, a house — happens
+- **Mind-Map Bot** -Turns messy notes and conversations into navigable mind maps
+- **FindRats** - Easily Find local leads in an excel sheet from 10-15 industry. A one minute GTM workbook generator
 
 
