@@ -20,6 +20,8 @@ I study how technology shapes people — and I build the products that reach the
 
 A lot of my contributions are private. My work asks how technology changes the people who use it — across social media, AI systems, and assistive robots/wearable tech. My research also spans Responsible AI / AI ethics / trust & safety across software products and LLMS. 
 
+Keywords: Health-tech, marketing, GenAI products, evaulation, empirical research, UI/UX, Accessibility, Marketing, Product Management, Market Research
+
 ### 🛠️ The builder
 
 I take GenAI products from zero to real users, and run go-to-market for enterprise clients. AI product marketing/growth as well as sales funnels, pipelines and managing social media campaigns. I roll up my sleeves and do it all. 
