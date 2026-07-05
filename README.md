@@ -18,30 +18,25 @@ I study how technology shapes people — and I build the products that reach the
 
 ### 🔬 The researcher
 
-A lot of my contributions are private. My work asks how technology changes the people who use it — across social platforms, AI systems, and assistive robotics.
-
-- Six peer-reviewed papers · 122 citations · h-index 3
-- IEEE Best Paper Award, cited in elderly-care policy across four countries
-- Lead author on a social-media & mental-health study cited 100+ times
+A lot of my contributions are private. My work asks how technology changes the people who use it — across social media, AI systems, and assistive robots/wearable tech. My research also spans Responsible AI / AI ethics / trust & safety across software products and LLMS. 
 
 ### 🛠️ The builder
 
-I take GenAI products from zero to real users, and run go-to-market for enterprise clients.
+I take GenAI products from zero to real users, and run go-to-market for enterprise clients. AI product marketing/growth as well as sales funnels, pipelines and managing social media campaigns. I roll up my sleeves and do it all. 
 
-- GenAI product launches from 0 → 10,000 users
+- GenAI product launches from 0 → 10,000 users, Founding Sariska.io (10 min AI audio,video and media SDK, API's) 
 - GTM for $500M ARR enterprise clients
-- Founding-team work building AI products that ship
 
 ---
 ### Research interests
 
-My work sits at the intersection of human-computer interaction, responsible AI, and human wellbeing — how technology reshapes the people who live with it, and how to build it responsibly. Three threads run through it:
+My work sits at the intersection of human-computer interaction, responsible AI, and human wellbeing — how technology reshapes the people who live with it, and how to build it responsibly especially for vulnerable populations such as women, children, elderly, ethnic populations and minorities. Three threads run through it:
 
-- **Technology and mental health** — how platform design relates to psychological wellbeing, most centrally in my lead-authored study on Instagram and mental health
-- **Assistive and care technology** — where robotics and AI can genuinely support aging populations, and where deployment outpaces evidence
-- **Responsible AI in practice** — not as principle, but as engineering: systems with human oversight built into the loop, evaluated honestly
+- **Technology and mental health** — how platform design relates to psychological wellbeing, most centrally in my study on Instagram and mental health
+- **Assistive and care technology** — where robotics and AI can genuinely support aging populations, anthropomorphisation is faster in aging populations; and where deployment outpaces evidence
+- **Responsible AI in practice** — not as principle, but as engineering: systems with human oversight built into the loop, evaluated honestly, helping build evaulation frameworks
 
-I don't keep research and building in separate boxes. The research makes me a better builder. The building keeps my research honest.
+I don't keep research and building in separate boxes. The research makes me a better builder. The building keeps my research honest. I'm always looking for independent collaborations for red-teaming, HCI experiments and edtech. 
 
 ### Publications
 
@@ -79,11 +74,13 @@ I don't keep research and building in separate boxes. The research makes me a be
 
 ### 📌 Pinned work
 
+- **Ila** - A  PWA for local-first cycle tracking, fertility awareness education such as avoiding pregnancy and family planning, reminders, imports/exports, smooth charting, and opt-in non-diagnostic insights
 - **From Stadium to Streets** — a data-driven policy proposal on LA's public restroom gap. LA doesn't have enough public restrooms. I used data to prove exactly who that hurts most and what the city could do about it
 - **Senior Citizen Assistance Humanoid** — mood-aware, voice-controlled care robot. A robot companion for older adults that listens, reads your mood, and helps out around the house
 - **IoT Health Monitoring System** — real-time biosensor dashboard
 - **Life-Centered Financial Modeling** — 20-year net-worth simulation: watch what happens to your net worth as real life — jobs, marriage, kids, a house — happens
 - **Mind-Map Bot** -Turns messy notes and conversations into navigable mind maps
 - **FindRats** - Easily Find local leads in an excel sheet from 10-15 industry. A one minute GTM workbook generator
+
 
 
